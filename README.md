@@ -1,4 +1,4 @@
-# Manually-Trained-Linear-Regression-Model
+# Manually-Trained-Linear-Regression-Model (Aug 2021)
 This project deals with implementing the Linear Regression model on **Boston** **dataset** which is available online as well as in Python's Scikit-learn.
 I have used Scikit-learn's Boston dataset in the above code.
 
